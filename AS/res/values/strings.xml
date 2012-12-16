@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Gtime</string>
+    <string name="menu_settings">Tap me to support my app</string>
+    <string name="select">Select your Branch</string>
+    <string name="title_activity_main">Gtime</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_cse">Gtime</string>
+
+</resources>
